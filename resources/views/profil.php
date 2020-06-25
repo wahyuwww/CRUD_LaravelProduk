@@ -1,0 +1,1 @@
+selamat datang <?php echo $web?>
