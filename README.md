@@ -1,3 +1,20 @@
+<h1>Ini Screenshotnya</h1>
+<h3>Update</h3>
+
+![Screenshot_3](https://user-images.githubusercontent.com/60133853/85697488-09c6d800-b704-11ea-8f75-2bfdacdab272.png)
+<h3>Detail</h3>
+
+![Screenshot_4](https://user-images.githubusercontent.com/60133853/85697495-0af80500-b704-11ea-8436-a8b7ad78dc44.png)
+<h3>Create</h3>
+
+![Screenshot_5](https://user-images.githubusercontent.com/60133853/85697497-0b909b80-b704-11ea-894c-8e9652b9e8c3.png)
+<h3>Menu Utama Delete berfungsi</h3>
+
+
+![Screenshot_2](https://user-images.githubusercontent.com/60133853/85697502-0c293200-b704-11ea-821f-c566cab8eaaa.png)
+
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
@@ -76,3 +93,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
